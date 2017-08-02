@@ -1,7 +1,7 @@
 # create a shortcut to your data
 
 file.symlink(
-  from = ...,
+  from = "C:\Users\Admin\Documents\handouts\data",
   to = 'data'
 )
 
